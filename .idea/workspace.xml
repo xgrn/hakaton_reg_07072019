@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbc24463-c33a-4742-8e94-2278b49a3b7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hakaton_reg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/blockly_compressed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/blocks_compressed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/javascript_compressed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ba.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/bcc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/be-tarask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/be.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/diq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/dty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/en-gb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/eo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/gor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ha.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/hrx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/kab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/lb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/lki.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/lo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/lrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/mnw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/oc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/pms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/pt-br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/sc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/sd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/shn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/skr-arab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/sr-latn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/tcy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/te.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/tl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/tlh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ug-arab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/ur.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/xmf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/yo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/zh-hans.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/js/zh-hant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/az.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/bcc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/be-tarask.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/bg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/bn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/br.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/constants.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/cs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/diq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/dty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/el.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/en-gb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/eo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/et.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/eu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/fi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/gl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/gor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ha.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/he.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/hrx.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/hy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/id.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/is.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/kab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ko.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/lb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/lki.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/lo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/lrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/lt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/lv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/mk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/mnw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/nb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/oc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/pms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/pt-br.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/pt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/qqq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/sc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/sd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/shn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/sk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/skr-arab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/sl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/sq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/sr-latn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/sr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/sv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/synonyms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/tcy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/te.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/th.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/tl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/tlh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ug-arab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/uk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/ur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/vi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/xmf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/yo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/zh-hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/json/zh-hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockly/msg/messages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/16154.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/expanded.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/run.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/save.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/data_sources/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/map/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blockly.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InfoBox.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Map.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/MongoDB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/loader/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/loader/map_official_quality.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indexes/regions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loader/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loader/map_official_quality.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/report/ReportStorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Blockly.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="100" column="5" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+              <folding>
+                <element signature="n#style#0;n#xml#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#1663#1681#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/InfoBox.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/blocks/map/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/img/expanded.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/img/run.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/img/save.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Map.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="243" column="14" selection-start-line="243" selection-start-column="14" selection-end-line="243" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="e#128#164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class=&quot;fil4&quot;</find>
+      <find>/&gt;</find>
+      <find>class=&quot;fil\d&quot;</find>
+      <find>order_</find>
+      <find>9772</find>
+      <find>к76</find>
+      <find>r91</find>
+      <find>id=&quot;(\w+)&quot;</find>
+      <find>style</find>
+      <find>fill:</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&gt;&lt;/polygon&gt;</replace>
+      <replace>krm</replace>
+      <replace>polygon</replace>
+      <replace>id=&quot;$1&quot; :style=&quot;path.$1&quot;</replace>
+      <replace>style.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/router/index.ru.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/rest-api_9.http" />
+        <option value="$PROJECT_DIR$/src/report/ReportStorage.js" />
+        <option value="$PROJECT_DIR$/src/data/MongoDB.js" />
+        <option value="$PROJECT_DIR$/src/blocks/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/loaders/official_quality.js" />
+        <option value="$PROJECT_DIR$/src/loaders/index.js" />
+        <option value="$PROJECT_DIR$/src/loader/official_quality.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/src/data/loader/index.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/rest-api_10.http" />
+        <option value="$PROJECT_DIR$/src/data/loader/map_official_quality.js" />
+        <option value="$PROJECT_DIR$/src/loader/map_official_quality.js" />
+        <option value="$PROJECT_DIR$/src/loader/index.js" />
+        <option value="$PROJECT_DIR$/src/blocks/data_sources/index.js" />
+        <option value="$PROJECT_DIR$/src/indexes/regions.js" />
+        <option value="$PROJECT_DIR$/src/assets/DESIGN_KARTI.svg" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/assets/img/expanded.svg" />
+        <option value="$PROJECT_DIR$/src/components/Map.vue" />
+        <option value="$PROJECT_DIR$/src/components/Blockly.vue" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/components/InfoBox.vue" />
+        <option value="$PROJECT_DIR$/src/blocks/map/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hakaton_reg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hakaton_reg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hakaton_reg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hakaton_reg" type="462c0819:PsiDirectoryNode" />
+              <item name="blockly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hakaton_reg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hakaton_reg" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hakaton_reg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hakaton_reg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hakaton_reg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hakaton_reg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hakaton_reg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hakaton_reg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hakaton_reg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hakaton_reg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hakaton_reg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hakaton_reg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hakaton_reg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hakaton_reg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hakaton_reg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hakaton_reg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="loader" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Geron\PhpstormProjects\hakaton_reg\src\assets" />
+      <recent name="C:\Users\Geron\PhpstormProjects\hakaton_reg\blockly" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3080/api/data/map_official_quality" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="year" />
+                <option name="value" value="2018" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;title&quot;:&quot;Test&quot;,&quot;workspace&quot;:&quot;wrktest&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3080/api/report/5d2101e9d3af9e2285e4bdf1" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3080/api/reports" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3080/api/report" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;:null,&quot;title&quot;:&quot;Test&quot;,&quot;workspace&quot;:&quot;wrktest&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Production">
+    <configuration name="rest-api_10#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_10.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_9#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_9.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="Production" type="NodeJSConfigurationType" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2">
+        <option name="NpmBeforeRunTask" enabled="true">
+          <package-json value="$PROJECT_DIR$/package.json" />
+          <command value="run" />
+          <scripts>
+            <script value="build" />
+          </scripts>
+          <node-interpreter value="project" />
+          <envs />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/index.js">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.rest-api_9#1" />
+      <item itemvalue="HTTP Request.rest-api_10#1" />
+      <item itemvalue="Node.js.Production" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api_10#1" />
+        <item itemvalue="HTTP Request.rest-api_9#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc24463-c33a-4742-8e94-2278b49a3b7e" name="Default Changelist" comment="" />
+      <created>1562409271502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562409271502</updated>
+      <workItem from="1562409273163" duration="79652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79652000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20574887" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="REST Client" weight="0.47954175" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2569558" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/rf.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Karta.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.ru.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api_9.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="61" selection-start-column="61" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report/ReportStorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/MongoDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/loader/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api_10.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loader/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/data_sources/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/indexes/regions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="78" column="38" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loader/map_official_quality.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/loader/map_official_quality.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/DESIGN_KARTI.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/expanded.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/save.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/run.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#128#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Map.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="243" column="14" selection-start-line="243" selection-start-column="14" selection-end-line="243" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Blockly.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="100" column="5" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#xml#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#1663#1681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/InfoBox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/map/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
